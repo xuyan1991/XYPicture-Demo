@@ -1,0 +1,10 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+pod 'Material', '~> 1.0'
+pod 'SnapKit'
+pod 'Alamofire', '~> 2.0'
+pod 'Kanna', '~> 1.0.0'
+pod 'SDWebImage'
+pod 'CHTCollectionViewWaterfallLayout'
+pod 'MJRefresh'
+pod 'ImageViewer'
